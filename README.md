@@ -2,7 +2,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi~%20%E8%BF%99%E9%87%8C%E6%98%AF%20%E4%B8%BE%E4%B8%AA%E6%A0%97%E5%AD%90~;Eh%3F+Who+am+I%3F+Why+am+I+here%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi~%20%E8%BF%99%E9%87%8C%E6%98%AF_%E4%B8%BE%E4%B8%AA%E6%A0%97%E5%AD%90~;Hi~+Here+is+a+JuGeLiZi)](https://git.io/typing-svg)
 
 ![:mlldxe](https://count.getloli.com/get/@:CodeXz0?theme=gelbooru) 
 
